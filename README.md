@@ -19,3 +19,16 @@
 - str, int, float & bool data type
 - type casting between these data types
 - round() function
+
+## Level 3
+
+### Discussed Topics
+
+- Operator Precedence 
+`
+1.()
+2.**
+3.* /
+4.+ -
+`
+- Stringing variables and f''
