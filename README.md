@@ -42,3 +42,12 @@
 - Custom function
 - Default and Keyword argument of Custom function
 - Returning value from function
+
+
+## Level 5
+
+### Discussed Topics
+
+- List
+- List methods
+- Sum() function
