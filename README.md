@@ -32,3 +32,13 @@
 4.+ -
 `
 - Stringing variables and f''
+
+
+## Level 4
+
+### Discussed Topics
+
+- Some useful builtin function
+- Custom function
+- Default and Keyword argument of Custom function
+- Returning value from function
